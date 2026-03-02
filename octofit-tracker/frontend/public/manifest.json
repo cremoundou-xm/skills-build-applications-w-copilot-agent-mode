@@ -1,0 +1,32 @@
+{
+  "short_name": "OctoFit",
+  "name": "OctoFit Tracker - Fitness Activity & Team Competition",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "octofitapp-small.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2c3e50",
+  "background_color": "#ffffff",
+  "description": "Track your fitness activities, join teams, and compete on the leaderboard!"
+}
